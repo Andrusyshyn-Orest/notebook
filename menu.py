@@ -1,5 +1,6 @@
 """
 This module contains class Menu.
+GitHub repository: https://github.com/Andrusyshyn-Orest/notebook.git
 """
 
 import sys

@@ -1,5 +1,6 @@
 """
 This module contains classes Note and Notebook.
+GitHub repository: https://github.com/Andrusyshyn-Orest/notebook.git
 """
 
 import datetime
